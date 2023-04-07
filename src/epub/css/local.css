@@ -5,21 +5,6 @@
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p{
-	text-align: initial;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:poem"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
-
-[epub|type~="z3998:poem"] p > span + br{
-	display: none;
-}
-
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: initial;
@@ -28,6 +13,10 @@
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+[epub|type~="z3998:song"]{
+	text-align: justify;
 }
 
 footer{
