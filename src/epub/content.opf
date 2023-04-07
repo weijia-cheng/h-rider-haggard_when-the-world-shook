@@ -43,40 +43,42 @@
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85001072</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Humphrey Arbuthnot loses his wife who had promised that he will know where to go to be reunited and has a sudden urge to travel among the islands of the pacific. He and his traveling companions are shipwrecked on the south sea island of Orofena.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;When the World Shook&lt;/i&gt; is a novel by &lt;a href="https://standardebooks.org/ebooks/h-rider-haggard"&gt;H. Rider Haggard&lt;/a&gt;, best known as the creator of &lt;a href="https://standardebooks.org/collections/allan-quatermain"&gt;Allan Quuartermain&lt;/a&gt;, was published in 1919. This story is about Humphrey Arbuthnot, a writer of adventure stories, and the deathbed promise of his wife that the two would meet again.&lt;/p&gt;
+			&lt;p&gt;Arbuthnot, along with his friends Bickley and Bastin, set sail for the Pacific where they promptly encounter a storm and abandon ship. When they awaken they find themselves on the island of Orofena, anger the island natives, and are forced to flee when they make an astounding discovery.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1368</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>
+			<a href="https://archive.org/details/whenworldshookb00hagggoog">Internet Archive</a>
+		</dc:source>
+		<meta property="se:production-notes">The illustrations in this book were recreated from the original as vector graphics by David Grigg. An earlier transcription at https://github.com/TonyAngelo/h-rider-haggard_when-the-world-shook was also consulted.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/When_the_World_Shook</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-rider-haggard_when-the-world-shook</meta>
 		<dc:creator id="author">H. Rider Haggard</dc:creator>
 		<meta property="file-as" refines="#author">Haggard, H. Rider</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Sir Henry Rider Haggard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._Rider_Haggard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80010495</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wat</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Frederic Edwin Church</dc:contributor>
+		<meta property="file-as" refines="#artist">Church, Frederic Edwin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frederic_Edwin_Church</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81068777</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David Zitzelsberger</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Zitzelsberger, David</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
