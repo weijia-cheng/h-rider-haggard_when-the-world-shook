@@ -52,9 +52,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1368</dc:source>
-		<dc:source>
-			<a href="https://archive.org/details/whenworldshookb00hagggoog">Internet Archive</a>
-		</dc:source>
+		<dc:source>https://archive.org/details/whenworldshookb00hagggoog</dc:source>
 		<meta property="se:production-notes">The illustrations in this book were recreated from the original as vector graphics by David Grigg. An earlier transcription at https://github.com/TonyAngelo/h-rider-haggard_when-the-world-shook was also consulted.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
