@@ -166,9 +166,9 @@
 		<itemref idref="chapter-26.xhtml"/>
 		<itemref idref="chapter-27.xhtml"/>
 		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
-		<itemref idref="loi.xhtml"/>
 	</spine>
 </package>
